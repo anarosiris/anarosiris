@@ -9,6 +9,8 @@ I build **plugins for Moodle™** at [eLearning Fácil](https://elearningfacil.c
 | | Plugin | What it does | Moodle™ |
 |---|---|---|---|
 | <img src="img/direct-scorm-player.png" width="56" alt=""> | **[Direct SCORM player](https://github.com/anarosiris/moodle-local_efscorm)**<br>`local_efscorm` | One click and the student is right inside the SCORM: no “Enter” page, full screen in the same tab, no blocked pop-ups. | 5.1 · 5.2 · 5.3 |
+| <img src="img/active-time-clock.png" width="56" alt=""> | **[Active Time Clock](https://github.com/anarosiris/moodle-local_eftimeclock)**<br>`local_eftimeclock` | Moodle™ logs clicks, this measures time: only while the activity tab is in focus, with an on-screen clock and an Excel/CSV report. | 5.1 · 5.2 · 5.3 |
+| <img src="img/my-progress.png" width="56" alt=""> | **[My progress](https://github.com/anarosiris/moodle-block_efprogress)**<br>`block_efprogress` | A block where every student sees how much is left: a progress ring and one clickable mark per activity. | 5.1 · 5.2 · 5.3 |
 
 More free plugins are on their way.
 
